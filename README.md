@@ -1,6 +1,6 @@
-#Analyzing-the-Life-Expectancy-Dataset
+ Analyzing-the-Life-Expectancy-Dataset
  DATA SOURCE: https://www.kaggle.com/kumarajarshi/life-expectancy-who
-#Questions framed for analysis: 
+ Questions framed for analysis: 
   1. How does Life Expectancy differ in developing and developed countries?
   2. What impact does population have on infant mortality?
   3. Do poor countries have less health care facilities for their people?
