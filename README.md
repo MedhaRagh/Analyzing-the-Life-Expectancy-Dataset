@@ -13,4 +13,8 @@
   8. How has alcohol consumption in developing and developed countries changed over the years?<br>
   9. What is the Impact of schooling on the lifespan of humans?<br>
  10. What are the factors contributing to thinness of children?<br><br>
+ 
+ <strong>Website:</strong> http://lifeexpectancy.s3-website.ap-south-1.amazonaws.com/
+ <br><br>
+ 
 © 2021 GitHub, Inc.
