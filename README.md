@@ -15,8 +15,8 @@ You can download Tableau from [here](https://www.tableau.com/products/desktop/do
 We have framed a set of questions for analysis and have uploaded the same on [Tableau Public](https://www.tableau.com/products/public). You can find the links below.
   1. [How does Life Expectancy differ in developing and developed countries?](https://public.tableau.com/views/HowNationalStatusaffectsLifeExpectancy/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)<br>
   2. [What impact does population have on infant mortality?](https://public.tableau.com/views/isInfantDeathrelatedtoPopulation/Story2?:language=en-US&:display_count=n&:origin=viz_share_link )<br>
-  3. Do poor countries have less health care facilities for their people?<br>
-  4. Does BMI affect life expectancy? If yes, what is the trend in developing and developed nations?<br>
+  3. [Do poor countries have less health care facilities for their people?](https://public.tableau.com/app/profile/medha.raghavendra.prasad1264/viz/GDPandBMI/Dopoorcountrieshavelesshealthcarefacilitiesfortheirpeople)<br>
+  4. [Does BMI affect life expectancy? If yes, what is the trend in developing and developed nations?](https://public.tableau.com/app/profile/medha.raghavendra.prasad1264/viz/GDPandBMIcontinuation/IsBMIrelatedtoLifeExpectancyIfsowhatisthetrendindevelopedanddevelopedcountries)<br>
   5. [Does immunization affect life expectancy? What are the factors that affect immunization facility of a country?](https://public.tableau.com/views/Immunization_life_Expectancy/ImmunizationFactors?:language=en-US&:display_count=n&:origin=viz_share_link)<br>
   6. [What is the impact of diseases on Life Expectancy?](https://public.tableau.com/views/Diseases_life_Expectancy/Diseases?:language=en-US&:display_count=n&:origin=viz_share_link)<br>
   7. [Does Life Expectancy have positive or negative relationship with drinking alcohol?](https://public.tableau.com/shared/Y9GK5N4S6?:display_count=n&:origin=viz_share_link )<br>
