@@ -22,7 +22,7 @@ Tableau is a very effective tool to create interactive data visualizations very 
 
 You can download Tableau Desktop from [here](https://www.tableau.com/products/desktop/download).
 ## Graphs
-These are a set of questions framed for analysis. The graphs for these have uploaded on [Tableau Public](https://www.tableau.com/products/public). You can find the links below.
+We framed a set of ten questions for analysis. The graphs for these have uploaded been on [Tableau Public](https://www.tableau.com/products/public). You can find the links below.
   1. [How does Life Expectancy differ in developing and developed countries?](https://public.tableau.com/views/HowNationalStatusaffectsLifeExpectancy/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)<br>
   2. [What impact does population have on infant mortality?](https://public.tableau.com/views/isInfantDeathrelatedtoPopulation/Story2?:language=en-US&:display_count=n&:origin=viz_share_link )<br>
   3. [Do poor countries have less health care facilities for their people?](https://public.tableau.com/app/profile/medha.raghavendra.prasad1264/viz/GDPandBMI/Dopoorcountrieshavelesshealthcarefacilitiesfortheirpeople)<br>
