@@ -11,7 +11,7 @@ You can find this dataset [here](https://www.kaggle.com/kumarajarshi/life-expect
 ## Tableau
 Tableau is a visual analytics engine that makes it easier to create interactive visual analytics in the form of dashboards.
 You can download Tableau from [here](https://www.tableau.com/products/desktop/download).
-##Questions framed for analysis
+## Questions framed for analysis
   1. How does Life Expectancy differ in developing and developed countries?<br>
   2. What impact does population have on infant mortality?<br>
   3. Do poor countries have less health care facilities for their people?<br>
