@@ -22,3 +22,5 @@ You can download Tableau from [here](https://www.tableau.com/products/desktop/do
   8. How has alcohol consumption in developing and developed countries changed over the years?<br>
   9. What is the Impact of schooling on the lifespan of humans?<br>
   10. What are the factors contributing to thinness of children?<br><br>
+## Graphs
+We have uploaded our graphs on [Tableau Public](https://www.tableau.com/products/public)
