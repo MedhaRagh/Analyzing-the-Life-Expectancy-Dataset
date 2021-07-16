@@ -23,4 +23,14 @@ You can download Tableau from [here](https://www.tableau.com/products/desktop/do
   9. What is the Impact of schooling on the lifespan of humans?<br>
   10. What are the factors contributing to thinness of children?<br><br>
 ## Graphs
-We have uploaded our graphs on [Tableau Public](https://www.tableau.com/products/public)
+We have uploaded our graphs on [Tableau Public](https://www.tableau.com/products/public). Please find the links below.
+https://public.tableau.com/views/HowNationalStatusaffectsLifeExpectancy/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/isInfantDeathrelatedtoPopulation/Story2?:language=en-US&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/views/Diseases_life_Expectancy/Diseases?:language=en-US&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/views/Immunization_life_Expectancy/ImmunizationFactors?:language=en-US&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/views/SchoolingvsLE/Story?:language=en-US&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/views/ThinnessAnalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/shared/Y9GK5N4S6?:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/views/Book2_16252179825480/Story1?:language=en-US&:display_count=n&:origin=viz_share_link 
+
+
