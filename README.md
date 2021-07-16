@@ -21,4 +21,4 @@ You can download Tableau from [here](https://www.tableau.com/products/desktop/do
   7. Does Life Expectancy have positive or negative relationship with drinking alcohol?<br>
   8. How has alcohol consumption in developing and developed countries changed over the years?<br>
   9. What is the Impact of schooling on the lifespan of humans?<br>
- 10. What are the factors contributing to thinness of children?<br><br>
+  10. What are the factors contributing to thinness of children?<br><br>
