@@ -8,7 +8,7 @@ Furthermore, there have been a lot of studies undertaken in the past on factors 
 This project aims at analysing the factors that affect Life Expectancy.
 ## Data Source
 You can find this dataset [here](https://www.kaggle.com/kumarajarshi/life-expectancy-who) at Kaggle.
-## Tableau
+## Tool used for visualizing the dataset
 We used Tableau, a data visualization tool, for analyzing the Life Expectancy Dataset.
 Tableau is a visual analytics engine that makes it easier to create interactive visual analytics in the form of dashboards.
 You can download Tableau from [here](https://www.tableau.com/products/desktop/download).
