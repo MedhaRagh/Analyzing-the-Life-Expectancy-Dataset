@@ -34,9 +34,9 @@ These are a set of questions framed for analysis. The graphs for these have uplo
   9. [What is the Impact of schooling on the lifespan of humans?](https://public.tableau.com/views/SchoolingvsLE/Story?:language=en-US&:display_count=n&:origin=viz_share_link )<br>
   10. [What are the factors contributing to thinness of children?](https://public.tableau.com/views/ThinnessAnalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)<br><br>
 
-# Webiste
+# Website
 We used AWS to host our website as it delivers a highly performant and scalable website at a fraction of the cost of a traditional web server.
 
-To vist our website, please [click here]().
+To vist our website, please [click here](http://lifeexpectancy.s3-website.ap-south-1.amazonaws.com/).
 
 
