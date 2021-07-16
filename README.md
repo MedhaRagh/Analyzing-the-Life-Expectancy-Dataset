@@ -1,6 +1,5 @@
- <h2>Analyzing-the-Life-Expectancy-Dataset</h2>
- <br>
  <h1>WHAT IS THIS PROJECT?<h1>
+ 
  <strong>DATA SOURCE:</strong> https://www.kaggle.com/kumarajarshi/life-expectancy-who
  <br><br>
  <h3>Questions framed for analysis:</h2>
