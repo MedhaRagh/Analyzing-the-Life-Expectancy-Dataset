@@ -8,11 +8,21 @@ Furthermore, there have been a lot of studies undertaken in the past on factors 
 
 ## Data Source
 You can find this dataset [here](https://www.kaggle.com/kumarajarshi/life-expectancy-who) at Kaggle.
-## Tableau
+## Tools and Technologies used
+- HTML5
+- CSS
+- JAVASCRIPT
+- TABLEAU DESKTOP AND TABLEAU PUBLIC
+- AWS
+
+## Why Tableau?
 Tableau is a visual analytics engine that makes it easier to create interactive visual analytics in the form of dashboards.
-You can download Tableau from [here](https://www.tableau.com/products/desktop/download).
+
+Tableau is a very effective tool to create interactive data visualizations very quickly. It is very simple and user-friendly. Tableau can create complex graphs giving a similar feel as the pivot table graphs in Excel. Moreover, it can handle a lot more data and quickly provide calculations on datasets.
+
+You can download Tableau Desktop from [here](https://www.tableau.com/products/desktop/download).
 ## Graphs
-We have framed a set of questions for analysis and have uploaded the same on [Tableau Public](https://www.tableau.com/products/public). You can find the links below.
+These are a set of questions framed for analysis. The graphs for these have uploaded on [Tableau Public](https://www.tableau.com/products/public). You can find the links below.
   1. [How does Life Expectancy differ in developing and developed countries?](https://public.tableau.com/views/HowNationalStatusaffectsLifeExpectancy/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)<br>
   2. [What impact does population have on infant mortality?](https://public.tableau.com/views/isInfantDeathrelatedtoPopulation/Story2?:language=en-US&:display_count=n&:origin=viz_share_link )<br>
   3. [Do poor countries have less health care facilities for their people?](https://public.tableau.com/app/profile/medha.raghavendra.prasad1264/viz/GDPandBMI/Dopoorcountrieshavelesshealthcarefacilitiesfortheirpeople)<br>
@@ -24,7 +34,9 @@ We have framed a set of questions for analysis and have uploaded the same on [Ta
   9. [What is the Impact of schooling on the lifespan of humans?](https://public.tableau.com/views/SchoolingvsLE/Story?:language=en-US&:display_count=n&:origin=viz_share_link )<br>
   10. [What are the factors contributing to thinness of children?](https://public.tableau.com/views/ThinnessAnalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)<br><br>
 
+# Webiste
+We used AWS to host our website as it delivers a highly performant and scalable website at a fraction of the cost of a traditional web server.
 
-
+To vist our website, please [click here]().
 
 
