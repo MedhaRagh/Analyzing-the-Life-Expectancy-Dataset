@@ -12,7 +12,7 @@ You can find this dataset [here](https://www.kaggle.com/kumarajarshi/life-expect
 - HTML5
 - CSS
 - JAVASCRIPT
-- TABLEAU DESKTOP AND TABLEAU PUBLIC
+- TABLEAU 
 - AWS
 
 ## Why Tableau?
